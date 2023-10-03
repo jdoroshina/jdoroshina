@@ -1,6 +1,6 @@
 
 <p align="center">
-      <img src="#" width="100%" alt="Hi! I am Yulia Doroshina. Frontend developer based in Hamburg" />
+      <img src="hamburg-panorama.png" width="100%" alt="Hi! I am Yulia Doroshina. Frontend developer based in Hamburg" />
 </p>
 
 Welcome to my GitHub page!
