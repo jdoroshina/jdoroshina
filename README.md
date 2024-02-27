@@ -30,10 +30,10 @@ Here you can find some of my open source and pet-projects.
 
 | Project name        | Description          | Technologies  |
 | ------------- | ------------- | ----- |
-| [Keksobooking](https://github.com/jdoroshina/610981-keksobooking-28) | Service for placing and finding rental ads. | Vanilla JavaScript (ES6), AJAX, Leaflet API, Form's validation, Debounce |
-| [Kekstagram](https://github.com/jdoroshina/610981-kekstagram-28) | Simple "instagram"-like app, where you can view photos, upload your own photos and use CSS-filters on them. | Vanilla JavaScript (ES6), AJAX, Form's validation, Debounce |
-| [Mishka](https://github.com/jdoroshina/610981-mishka-26) | Online store that offers handmade items for home decor. Project has adaptive and fluid layout of three states (mobile, tablet, desktop). Optimized and responsive graphics. Complex grid and repositioning of elements at different screen widths. Build automation. |  HTML, SCSS, Gulp, WebP, Twig, BEM |
-| [Gllacy](https://github.com/jdoroshina/610981-gllacy-34) | E-commerce website which sells ice-cream. | HTML, CSS |
+| [Keksobooking](https://github.com/jdoroshina/610981-keksobooking-28) | Service for placing and finding rental ads. [⤴️](https://jdoroshina.github.io/610981-keksobooking-28/)| Vanilla JavaScript (ES6), AJAX, Leaflet API, Form's validation, Debounce |
+| [Kekstagram](https://github.com/jdoroshina/610981-kekstagram-28) | Simple "instagram"-like app, where you can view photos, upload your own photos and use CSS-filters on them. [⤴️](https://jdoroshina.github.io/610981-kekstagram-28/) | Vanilla JavaScript (ES6), AJAX, Form's validation, Debounce |
+| [Mishka](https://github.com/jdoroshina/610981-mishka-26) | Online store that offers handmade items for home decor. Project has adaptive and fluid layout of three states (mobile, tablet, desktop). Optimized and responsive graphics. Complex grid and repositioning of elements at different screen widths. Build automation. [⤴️](https://jdoroshina.github.io/610981-mishka-26/)|  HTML, SCSS, Gulp, WebP, Twig, BEM |
+| [Gllacy](https://github.com/jdoroshina/610981-gllacy-34) | E-commerce website which sells ice-cream. [⤴️](https://jdoroshina.github.io/610981-gllacy-34/)| HTML, CSS |
 
 <p align="center">
 <a href="mailto:yuspiri@gmail.com"><img height="30" src="email.svg"></a>&nbsp;&nbsp;
