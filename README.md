@@ -8,7 +8,7 @@ Here you can find some of my open source and pet-projects.
 
 ### 🛠 My tech stack:
 
-- **Frontend:** JavaScript, HTML5, CSS;
+- **Frontend:** JavaScript, HTML, CSS;
 - **Styling:** SCSS;
 - **Tools:** Figma, Git, Npm, Webpack, Gulp
 
